@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mary</h1>
+<h3 align="center"> Python developer </h3>
+<p align="center"> 🌱 I’m currently working on <a href ="https://github.com/Mechnuna/42_minishell"> minishell </a> </p> 
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mechnuna&theme=default&hide_border=false&date_format=Y/m/j&properties=background"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechnuna&layout=compact"(https://github.com/anuraghazra/github-readme-stats)/> </p>
 
 <!--
 **Mechnuna/Mechnuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
