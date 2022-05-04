@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mary</h1>
 <h3 align="center"> Python developer </h3>
 <p align="center"> 🌱 I’m currently working on <a href ="https://github.com/Mechnuna/42_minishell"> minishell </a> </p> 
+<p align="center"> 📫 How to reach me: <a href ="mailto:mary-kim@internet.ru?"> Mail </a> / <a href ="https://t.me/mechnuna"> Telegram </a></p> 
+
+<p align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2rh9zht001109l643vtx5wr/stats?cursusId=21&coalitionId=91" alt="sstyx's 42 stats" /></a>
+</p>
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/sstyx">
+    <img src="https://badgen.net/badge/Born2Code/sstyx/purple?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+  </a>
+</p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mechnuna&theme=default&hide_border=false&date_format=Y/m/j&properties=background"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mechnuna&layout=compact"(https://github.com/anuraghazra/github-readme-stats)/> </p>
+
 
 <!--
 **Mechnuna/Mechnuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
