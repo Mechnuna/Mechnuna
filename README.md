@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mary</h1>
 <h3 align="center"> Python developer </h3>
-<p align="center"> 🌱 I’m currently working on <a href ="https://github.com/Mechnuna/42_minishell"> minishell </a> </p> 
+<p align="center"> 🌱 I’m currently working on <a href ="https://github.com/Mechnuna/cub3d"> cub3d </a> </p> 
 <p align="center"> 📫 How to reach me: <a href ="mailto:mary-kim@internet.ru?"> Mail </a> / <a href ="https://t.me/mechnuna"> Telegram </a></p> 
 
 <p align="center">
